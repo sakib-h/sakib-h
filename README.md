@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakib-h
 - 👀 I’m experienced in Front-End Web Development also interested in learning Node.js for Backend Development 
-- 🌱 I’m currently learning Advance JavaScript & Next.js
+- 🌱 I’m currently learning Advance JavaScript & Next.js. Also practicing on Backend Development
 - 💞️ I’m looking to collaborate on Front-End Designing
 - 📫 Reach me sakib100.sa@gmail.com
 
