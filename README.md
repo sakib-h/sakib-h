@@ -6,11 +6,11 @@
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=n8fury&theme=dracula" alt="n8fury" /></p>
+<p align=center>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
 
 
