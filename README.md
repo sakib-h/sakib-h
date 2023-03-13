@@ -3,11 +3,11 @@
 - 📫 Reach me sakib100.sa@gmail.com
 
 
+
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
-<p align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-htheme=rising-sun&date_format=M%20j%5B%2C%20Y%5D" alt="sakin-h" /></p>
 
 <br/>
 
