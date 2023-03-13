@@ -9,7 +9,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![n8fury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=n8fury&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
