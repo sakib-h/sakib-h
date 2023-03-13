@@ -3,6 +3,12 @@
 - 📫 Reach me sakib100.sa@gmail.com
 <br/>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+<br/>
 
  <strong> <p> 📈 Contribution Graph: </p>  </strong>
 
