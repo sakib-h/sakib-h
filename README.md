@@ -10,7 +10,12 @@
 <br/>
 - 📊 Github Metrics:
  <strong> <p> 📈 Contribution Graph: </p>  </strong>
+<div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
 <br/>
 [![Sakib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakib-h&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
