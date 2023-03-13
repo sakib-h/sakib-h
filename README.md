@@ -1,17 +1,17 @@
--- 👋 Hi, I’m @sakib-h
--- 🔭 I’m currently working on MERN Stack Development <br>
--- 🌱 I’m currently learning Python <br>
--- 💞️ I’m looking to collaborate on MERN Stack Project <br>
--- 📫 Reach me sakib100.sa@gmail.com <br>
+- 👋 Hi, I’m @sakib-h
+- 🔭 I’m currently working on MERN Stack Development <br>
+- 🌱 I’m currently learning Python <br>
+- 💞️ I’m looking to collaborate on MERN Stack Project <br>
+- 📫 Reach me sakib100.sa@gmail.com <br>
 
--- 🌐 Socials: <br>
+- 🌐 Socials: <br>
 
--- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib)
 
 <br/>
--- 📊 Github Metrics:
+- 📊 Github Metrics:
 
--- <strong> <p> 📈 Contribution Graph: </p>  </strong>
+ <strong> <p> 📈 Contribution Graph: </p>  </strong>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
