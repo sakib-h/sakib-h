@@ -4,7 +4,7 @@
 
 
 
- <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
+ <strong> <p> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
 
