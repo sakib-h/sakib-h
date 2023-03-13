@@ -10,7 +10,7 @@
 
 <br/>
 
-[![n8fury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=n8fury&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sakib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=n8fury&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
