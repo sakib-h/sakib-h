@@ -7,8 +7,8 @@
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
-<div align=center> Hello </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align=center> [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </div>
+
 
 <br/>
 
