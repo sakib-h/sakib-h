@@ -9,7 +9,7 @@
   
 
 
- <strong> <p align=center> # 📈 Contribution Graph: </p>  </strong>
+ <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 <div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -22,7 +22,8 @@
 
 </div>
 
-# 📊 GitHub Stats:
+<strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
+<div align=center>
 
 <div align=center>
 
