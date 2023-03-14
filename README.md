@@ -7,7 +7,7 @@
 
 <div align='center'>
  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;OpenSource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
  
 </div>
  <h2><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h2>
