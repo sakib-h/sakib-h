@@ -27,7 +27,7 @@
 
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=rising-sun&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
