@@ -5,8 +5,6 @@
 #
 <h1  align="center"><strong>Welcome to Sakib Hasan's Profile ✋</strong></h1>
 
-<img width="100%" height="300px" src="./2.svg" alt="Material Bread logo">
-
 <div align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
