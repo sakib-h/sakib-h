@@ -12,80 +12,11 @@
 <h4 >I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority.
 Wish me luck on my journey of becoming a Fullstack Developer!! </h4>
 <br/>
-<br/>
-<br/>
-<p align= "right">
-<img align="right" alt="Coder GIF"  width="40%"  src="./1.gif" />
-</p>
-<p  align = "left">
 
-- 🔭 I’m currently working on [***Algorithm_Problems***](https://github.com/n8fury/Algorithm_Problems)
-- 🌱 I’m currently learning **node.js**
-- 🤵 My portfolio [**Here**](https://n8fury-portfolio.vercel.app/)
-- <p align = "left">
-      <details>
-      <summary><strong> ☎️ Connect with me:</strong></summary>
-      <p align="left">
-      <a href="https://twitter.com/n8fury1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="n8fury1" /></a>
-      <a href="https://linkedin.com/in/mamdud-hasan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mamdud-hasan" /></a>
-      <a href="mailto:mhjoy547@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      </p>
-      </details>
-
-    </p>
-
-- <p align = "left">
-      <details>
-      <summary> <strong> 🛠️ Languages and Tools:</strong></summary>
-      <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-       <!--       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
-       <!--       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
-       <!--       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
-       <!--       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> -->
-      </details>
-    </p>
-
-- <p align = "left">
-    <details>
-      <summary><strong> 📊 Github Metrics:</strong></summary>
-      <br/>
-      <br/>
-      <br/>
-      <p align="left">
-      <img src="./github-metrics.svg">
-      </p>
-    </details>
-  </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-- 👋 Hi, I’m @sakib-h
-- 🔭 I’m currently working on MERN Stack Development <br>
-- 🌱 I’m currently learning Python <br>
-- 💞️ I’m looking to collaborate on MERN Stack Project <br>
-- 📫 Reach me sakib100.sa@gmail.com <br>
+- 🔭 I’m currently working on MERN Stack Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on MERN Stack Project
+- 📫 Reach me: sakib100.sa@gmail.com
 - 🌐 Socials:
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib)
