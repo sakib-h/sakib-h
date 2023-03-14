@@ -23,7 +23,13 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</div>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
