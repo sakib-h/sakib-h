@@ -9,7 +9,7 @@
   
 
 
- <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
+ <strong> <p align=center> # 📈 Contribution Graph: </p>  </strong>
 <div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -29,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 - 💻 Tech Stack:
 
