@@ -9,8 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
  <h3><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h3>
-<h4 >I am a CS student currently pursuing my bachelor's degree. I am very much passionate about working in Backend Development. I aim to reduce people's daily hassles through better code. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority. Also, I'm currently practicing problem-solving on leetcode to refresh my fundamental skills and problem-solving skills.
-Wish me luck on my journey of becoming a Backend Developer!!  </h4>
+<h4 >I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority.
+Wish me luck on my journey of becoming a Fullstack Developer!! </h4>
 <br/>
 <br/>
 <br/>
