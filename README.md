@@ -31,6 +31,9 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
 
