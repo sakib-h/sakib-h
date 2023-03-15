@@ -31,12 +31,6 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 </div>
 
-<div align=center>
-
-[![Sakib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakib-h&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
 
