@@ -22,6 +22,17 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4bJVXgKP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sakibhasan)
 
+<strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
+<div align=center>
+
+<div align=center>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/>
+
+
+
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=rising-sun&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
   
@@ -34,14 +45,7 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 </div>
 
-<strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
-<div align=center>
 
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-
-</div>
 
  💻 Tech Stack:
 
