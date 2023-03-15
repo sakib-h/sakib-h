@@ -27,11 +27,9 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 <img aligh="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=rising-sun&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+<img aligh="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=rising-sun&card_width=450)](https://github.com/anuraghazra/github-readme-stats"/>
 
   
-
 
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 <div align=center>
