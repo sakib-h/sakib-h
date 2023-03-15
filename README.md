@@ -40,6 +40,8 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 </div>
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakib_h)](https://github.com/anuraghazra/github-readme-stats)
+
 
  💻 Tech Stack:
 
