@@ -27,7 +27,7 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 <div align=center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/>
+<img aligh=left width="47%" src="https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/>
 
 
 
