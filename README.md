@@ -21,6 +21,9 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 - 🌐 Socials:
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4bJVXgKP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sakibhasan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=rising-sun)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 
@@ -30,9 +33,6 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
