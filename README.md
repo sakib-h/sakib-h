@@ -40,7 +40,7 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 </div>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakib-h&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakib_h&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sakib Hasan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakib-h&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
