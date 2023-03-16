@@ -34,7 +34,7 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 ##
 
-📊 **Development Breakdown:**
+<strong> <p align=center> 📊 **Development Breakdown:** </p>  </strong>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
