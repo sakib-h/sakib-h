@@ -34,6 +34,11 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 ##
 
+📊 **Development Breakdown:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
 
