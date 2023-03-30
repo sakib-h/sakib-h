@@ -1,7 +1,6 @@
 <img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1">
 
 
-
 #
 <h1  align="center"><strong>Welcome to Sakib Hasan's Profile ✋</strong></h1>
 
@@ -10,7 +9,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;OpenSource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
  
 </div>
- <h2><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h2>
+
+<h2>
+   <strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong>
+</h2>
+
 <p> I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority.
 Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
