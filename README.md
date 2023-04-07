@@ -80,7 +80,7 @@ Linux                    1 hr 53 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
 
-<img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
+<img aligh="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
 
 <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 <div align=center>
