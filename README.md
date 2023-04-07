@@ -80,20 +80,16 @@ Linux                    1 hr 53 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <strong> <p align=center> 📊 GitHub Stats: </p>  </strong>
 <div align=center>
 
-<img aligh="left" width="39.45%" src="https://github-readme-stats.vercel.app/api?username=sakib-h&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/> 
+<img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
 
-
-<img aligh="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
-
-  
-
- <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
+<strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 <div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
+<strong> <p align=center> ⌛ Language Activity: </p>  </strong>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakib_h&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
