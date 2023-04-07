@@ -81,7 +81,7 @@ Linux                    1 hr 53 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
 <div align=center>
 
-<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=demo&theme=github_dark"/>
+<img width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
 
 </div>
 
