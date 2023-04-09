@@ -77,26 +77,15 @@ Linux                    5 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  Last Updated on 09/04/2023 01:19:15 UTC
 <!--END_SECTION:waka-->
 
-<strong> <p align=center> ⌛ Language Activity: </p>  </strong>
-
-<div align=center>
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-h&layout=compact&theme=github_dark"/>
-
-</div>
-
-<div align=center>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakib_h&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <div align=center width="60%" >
 <strong> <p> 📈 Contribution Graph: </p>  </strong>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakib-h&theme=github_dark)
+<!---
 [![Sakib Hasan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakib-h&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--->
 
  💻 Tech Stack:
 
