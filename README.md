@@ -39,7 +39,7 @@ Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 <strong> <p align=center> 📊 **Development Breakdown:** </p>  </strong>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/08/2023 01:08:59 UTC
+ Last Updated on 28/08/2023 01:06:22 UTC
 <!--END_SECTION:waka-->
 
 <div align=center width="60%" >
