@@ -82,9 +82,11 @@ Windows                  20 hrs 42 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakib-h&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakib-h&theme=github_dark)
-<!---
-[![Sakib Hasan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakib-h&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
---->
+
+<div align=center width="60%" >
+<strong> <p> 🖥️ LeetCode States: </p>  </strong>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sakib-h?theme=dark&font=Source%20Sans%20Pro)
 
  💻 Tech Stack:
 
