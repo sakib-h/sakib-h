@@ -74,7 +74,7 @@ Windows                  1 hr 27 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  Last Updated on 15/12/2023 01:12:16 UTC
 <!--END_SECTION:waka-->
 
-<div align=center width="60%" >
+<div align=center width="60%">
 
  <strong> <p> 🖥️ LeetCode States: </p>  </strong>
 
