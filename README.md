@@ -17,6 +17,28 @@
 <p> I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority.
 Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
+<!---
+### 😎 Skillset :
+
+Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
+CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
+
+Javascript Frameworks/Libraries:  `jQuery`
+
+Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+
+Databases:`MySQL`
+
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
+
+Familiar with: 
+
+Tools: `VS code` `Git GitHub `
+
+<hr>
+--->
+
+
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on MERN Stack Project
