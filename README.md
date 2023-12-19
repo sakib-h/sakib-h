@@ -14,40 +14,16 @@
    <strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong>
 </h2>
 
-<p> I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. I have been learning new programming stuff since my first programming journey. I am currently practicing writing readable, reusable & clutter-free code, which I plan to set as my top priority.
-Wish me luck on my journey of becoming a Fullstack Developer!! </p>
-
-<!---
-### 😎 Skillset :
-
-Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
-CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
-
-Javascript Frameworks/Libraries:  `jQuery`
-
-Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
-
-Databases:`MySQL`
-
-Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
-
-Familiar with: 
-
-Tools: `VS code` `Git GitHub `
-
-<hr>
---->
-
+<p> I am a CS student. I possess strong proficiency in both React.js and Node.js. Additionally, I am highly competent in working with Next.js, HTML/HTML5, CSS3, Bootstrap 5, Tailwind CSS, and JavaScript. My passion for web development is deeply ingrained in me, and I thoroughly enjoy tackling complex problems and designing beautiful, functional websites. Wish me luck on my journey of becoming a Fullstack Developer!! </p>
 
 - 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on MERN Stack Project
+- 💞️ I’m looking to collaborate on the MERN Stack Project
 - 📫 Reach me: sakib100.sa@gmail.com
 - 🌐 Socials:
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakib.hasan1998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-sakib) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4bJVXgKP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sakibhasan)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/sakib-h)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/sakib-h)
 
 ##
 <div align=center>
