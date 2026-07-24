@@ -39,8 +39,6 @@
 
 <strong> <p align=center> 📊 **Development Breakdown:** </p>  </strong>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.17%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -74,7 +72,7 @@ Windows                  24 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 23/07/2026 03:15:33 UTC
+ Last Updated on 24/07/2026 02:54:48 UTC
 <!--END_SECTION:waka-->
 
 <div align=center width="60%">
