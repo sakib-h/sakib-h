@@ -39,7 +39,9 @@
 
 <strong> <p align=center> 📊 **Development Breakdown:** </p>  </strong>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,8 +75,30 @@ VS Code                  2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Windows                  24 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:30:06 UTC
+```text
+⏱ AI Coding Time: 23 mins (96.26%)
+
+✍️ 353 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,698,163 Input Tokens, 16,215 Output Tokens
+
+💵 $17.34 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Sonnet                   581 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:46:30 UTC
 <!--END_SECTION:waka-->
 
 <div align=center width="60%">
